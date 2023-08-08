@@ -1,3 +1,5 @@
+portfolio project of the financial project with Python (Data analytics)
+
 - 👋 Hi, I’m @Nafeess
 - 👀 I’m interested in Data Analytics  | Data Science | Business Analytics
 - 🌱 I’m currently learning Power BI | Tableau | AI
